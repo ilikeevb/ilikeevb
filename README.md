@@ -11,7 +11,7 @@
 👥 **Где можно со мной связаться:**
 
 [![VK](https://img.shields.io/badge/VK---?logo=vk&style=for-the-badge&color=e6e6e6)](https://vk.com/ilikeevb)
-[![Habr](https://img.shields.io/badge/Habr---?logo=habr&style=for-the-badge&color=e6e6e6)](https://habr.com/ilikeev)
+[![Habr](https://img.shields.io/badge/Habr---?logo=habr&style=for-the-badge&color=e6e6e6)](https://habr.com/ru/users/ilikeev/)
 [![Telegram](https://img.shields.io/badge/Telegram---?logo=telegram&style=for-the-badge&color=e6e6e6)](https://t.me/ilikeevb)
 
 ---
