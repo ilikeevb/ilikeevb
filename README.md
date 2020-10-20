@@ -3,6 +3,7 @@
 **Мои проекты, над которыми я работаю:**
 
 ✅ [DuckForms](https://github.com/ilikeevb/DuckForms) - конструктор форм
+
 ⚽[ football-prediction](https://kurikku.pw) - прогнозирование результатов футбольных матчей
 
 ---
@@ -11,11 +12,12 @@
 
 [![VK](https://img.shields.io/badge/VK---?logo=vk&style=for-the-badge&color=e6e6e6)](https://vk.com/ilikeevb)
 [![Habr](https://img.shields.io/badge/Habr---?logo=habr&style=for-the-badge&color=e6e6e6)](https://habr.com/ilikeev)
-[![Telegram](https://img.shields.io/badge/Telegram---?logo=telegram&style=for-the-badge&color=e6e6e6)](https://habr.com/ilikeev)
+[![Telegram](https://img.shields.io/badge/Telegram---?logo=telegram&style=for-the-badge&color=e6e6e6)](https://t.me/ilikeevb)
 
 ---
 
 ⚡ **Рабочий стэк**
+
 [![Vue](https://img.shields.io/badge/Vue.JS---?logo=vue.js&style=for-the-badge&color=424242)](https://python.org)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=JavaScript&link=https://www.ecma-international.org/&style=for-the-badge)](https://www.ecma-international.org/)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&link=https://nodejs.org&style=for-the-badge)](https://nodejs.org)
